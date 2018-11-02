@@ -1,0 +1,43 @@
+.input-form-error{
+	font-size:12px;
+	color:#ff5b5b;
+	font-style:italic;
+}
+td{
+	vertical-align: middle!important;
+}
+th{
+	text-align: center;
+}
+.order{
+	text-align: center;
+	width: 50px;
+}
+.w100{
+	width: 100px;
+}
+.w150{
+	width: 150px;
+}
+.w50{
+	width: 50px;
+}
+.sortable{
+	cursor: move;
+}
+.video_url_container{
+	display: none;
+}
+.w200{
+	width: 200px;
+}
+.w300{
+	width: 300px;
+}
+.button-information-container{
+    display: none;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}

@@ -1,0 +1,3 @@
+SQLServerManager12.msc
+
+mySampleDatabase 
